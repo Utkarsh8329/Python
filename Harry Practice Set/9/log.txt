@@ -1,0 +1,5 @@
+hi this is a log file of many and 
+many lines with many information
+it is of 
+thousand lines Python is a language
+python is best

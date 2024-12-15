@@ -1,0 +1,1 @@
+manyWord = ["Utkarsh", "Tikkesh", "Yash"]
